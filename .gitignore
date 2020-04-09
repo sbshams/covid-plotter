@@ -1,5 +1,5 @@
 covid-plotter.code-workspace
 .vscode/*
-filtered_data/*
+plot_files/*
 separated_files/*
 
