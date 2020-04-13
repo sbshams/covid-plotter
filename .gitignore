@@ -2,4 +2,5 @@ covid-plotter.code-workspace
 .vscode/*
 plot_files/*
 separated_files/*
+saved_data/*
 
